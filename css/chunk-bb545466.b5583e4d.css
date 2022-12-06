@@ -1,0 +1,1 @@
+.shopping-list .header{justify-content:space-between;padding:0 12px}.shopping-list li{justify-content:space-between;padding:12px}.shopping-list li,.shopping-list li div{align-items:center}.shopping-list li .number{display:flex;align-items:center;justify-content:center;padding:8px;margin-right:8px;width:30px;height:30px;border-radius:50%;background-color:var(--color-3);color:#000}
